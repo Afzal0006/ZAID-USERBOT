@@ -4,7 +4,7 @@ import json
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "8269236510:AAHhnjm_jTFKDFnLY0kmwlISzBib0fV55pg"
+BOT_TOKEN = "8350094964:AAF0dQSjrBtBeSTGpUC2z5DOFo-U9_oJhBc"
 DATA_FILE = "data.json"
 LOG_CHANNEL_ID = -1002330347621  # Tumhara log channel ID
 
